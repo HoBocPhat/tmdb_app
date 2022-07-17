@@ -1,0 +1,5 @@
+const String SHARED_LOGGED = "USER_IS_LOGGED";
+const String SHARED_USERNAME = "USER";
+const String SHARED_PASSWORD = "PASSWORD";
+const String SHARED_TOKEN = "TOKEN";
+const String SHARED_FINGERPRINT = "FINGERPRINT";
